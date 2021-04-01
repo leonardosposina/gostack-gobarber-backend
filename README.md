@@ -2,10 +2,6 @@
 
 ## GoBarber Backend App
 
-[![AWS Deploy](https://img.shields.io/badge/-View_Online-brightgreen?style=flat&logo=amazon-aws&logoColor=white)][deploy]
-
----
-
 ### 📝 Instructions (development)
 
 1. Install **Docker**.
@@ -49,4 +45,3 @@
     ```
 
 [logo]: https://github.com/leonardosposina/gostack13-lv01-d01/blob/master/docs/gostack-bootcamp.png?raw=true
-[deploy]: http://
